@@ -7,3 +7,6 @@ Numpy
 Pandas
 Seaborn
 Matplotlib
+
+
+Data from Kaggle: https://www.kaggle.com/datasets/mysarahmadbhat/inc-5000-companies
