@@ -16,9 +16,13 @@ While some industries like Consumer Products & Services, Energy and Retail offer
 
 
 Libraries used: 
+
 Numpy == 1.20.1
+
 Pandas == 1.3.0
+
 Seaborn == 0.11.0
+
 Matplotlib == 3.1.2
 
 
