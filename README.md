@@ -15,6 +15,8 @@ Conclusion: The data suggests that if I were to start a business in the Governme
 While some industries like Consumer Products & Services, Energy and Retail offer excellent growth potential. It would be crucial to have a successful business execution strategy to guarantee rapid growth.
 
 
+There is also a post regarding this porject on medium. Follow the link to see the story on medium: https://medium.com/@soom6820/fastest-growing-5000-private-companies-in-the-u-s-in-2019-f452e06a7fcb
+
 Libraries used: 
 
 Numpy == 1.20.1
